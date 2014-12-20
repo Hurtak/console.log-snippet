@@ -12,10 +12,12 @@ console.log-snippet
 
 ### Installation
 
-* put the `log.sublime-snippet` file into this folder on Windows machines
+* put the `log.sublime-snippet` file into Sublime Text user settings folder
+
+Windows
 
 ```
-Users / *username* / AppData / Roaming / Sublime Text 3 / Packages / User
+c:/Users/*username*/AppData/Roaming/Sublime Text 3/Packages/User
 ```
 
 ### Related
